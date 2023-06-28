@@ -8,7 +8,7 @@ https://jasperfx.github.io/oakton/guide/getting_started.html
 
 ## Get environment variables in tree structure and see from which provider they come
 - dotnet run -- describe
-- 
+
 ## Environment checks
 - dotnet run -- check-env
 
